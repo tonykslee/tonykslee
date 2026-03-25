@@ -1,16 +1,24 @@
-## Hi there 👋
+# Tony Lee
 
-<!--
-**tonykslee/tonykslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer with experience at Microsoft Azure and T-Mobile, focused on full-stack and platform systems.
 
-Here are some ideas to get you started:
+## What I work on
+- TypeScript / Node.js applications
+- React frontends
+- APIs and backend services
+- Developer tooling and workflow automation
+- Reliability, maintainability, and product-focused engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+### ClashCookies
+A TypeScript Discord bot for Clash of Clans operations, analytics, and workflow automation.
+
+### basic-rest-service
+A production-style REST API example using Java and Spring Boot with security, Swagger, Actuator, logging, testing, and error handling.
+
+## Background
+- Microsoft Azure
+- T-Mobile
+
+## Interested in
+Senior software engineering roles spanning product engineering, platform engineering, backend systems, and startup environments.
